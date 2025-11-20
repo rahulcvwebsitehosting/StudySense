@@ -1,23 +1,23 @@
-# 📚 StudySence  
+# 📚 StudySense  
 *A smart study companion designed to make learning simpler, faster, and more efficient.*
 
 [Visit the repository → rahulcvwebsitehosting/StudySense](https://github.com/rahulcvwebsitehosting/StudySense)
 
 ## 🚀 Features
 
-- Smart Quiz System: Practise subject-wise quizzes and get instant results.  
-- Progress Tracking: Monitor performance with real-time analytics.  
-- Personalized Recommendations: Suggestions based on your strengths & weaknesses.  
-- Clean UI/UX: A simple, distraction-free interface for focused learning.  
-- Secure and Lightweight: Fast performance with minimal resource usage.
+- **Smart Quiz System** – Practise subject-wise quizzes and get instant results.  
+- **Progress Tracking** – Monitor performance with real-time analytics.  
+- **Personalized Recommendations** – AI-based suggestions based on strengths and weaknesses.  
+- **Clean UI/UX** – Simple, distraction-free design for focused learning.  
+- **Secure & Lightweight** – Fast, smooth and optimized for students.
 
 ## 🛠 Tech Stack
 
 - **Frontend:** React / Next.js / TypeScript  
-- **Backend:** Node.js / Express (or your preferred setup)  
+- **Backend:** Node.js / Express (or your chosen backend)  
 - **Database:** MongoDB / Firebase  
-- **Styling:** TailwindCSS or CSS Modules  
-- **Version Control:** Git & GitHub
+- **Styling:** TailwindCSS / CSS Modules  
+- **Version Control:** Git & GitHub  
 
 ## 📦 Installation
 
