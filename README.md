@@ -26,6 +26,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/rahulcvwebsitehosting/StudySense.git
 cd StudySense
+
+
+
 # 📚 StudySense
 
 StudySense is a smart study companion that helps students track progress, practise quizzes, receive personalised recommendations, and improve learning efficiency.  
