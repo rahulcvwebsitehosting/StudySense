@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📚 StudySence  
+*A smart study companion designed to make learning simpler, faster, and more efficient.*
 
-# Run and deploy your AI Studio app
+[Visit the repository → rahulcvwebsitehosting/StudySense](https://github.com/rahulcvwebsitehosting/StudySense)
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1wYoBE17EPpLHTvNg3ItZQGfAhRGeCwZs
+- Smart Quiz System: Practise subject-wise quizzes and get instant results.  
+- Progress Tracking: Monitor performance with real-time analytics.  
+- Personalized Recommendations: Suggestions based on your strengths & weaknesses.  
+- Clean UI/UX: A simple, distraction-free interface for focused learning.  
+- Secure and Lightweight: Fast performance with minimal resource usage.
 
-## Run Locally
+## 🛠 Tech Stack
 
-**Prerequisites:**  Node.js
+- **Frontend:** React / Next.js / TypeScript  
+- **Backend:** Node.js / Express (or your preferred setup)  
+- **Database:** MongoDB / Firebase  
+- **Styling:** TailwindCSS or CSS Modules  
+- **Version Control:** Git & GitHub
 
+## 📦 Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Clone the repository:
+
+```bash
+git clone https://github.com/rahulcvwebsitehosting/StudySense.git
+cd StudySense
