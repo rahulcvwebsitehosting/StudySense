@@ -1,7 +1,10 @@
-# 📚 StudySense  
+
+# 📚 StudySense
 *A smart study companion designed to make learning simpler, faster, and more efficient.*
 
 [Visit the repository → rahulcvwebsitehosting/StudySense](https://github.com/rahulcvwebsitehosting/StudySense)
+
+---
 
 ## 🚀 Features
 
@@ -11,55 +14,46 @@
 - **Clean UI/UX** – Simple, distraction-free design for focused learning.  
 - **Secure & Lightweight** – Fast, smooth and optimized for students.
 
+---
+
 ## 🛠 Tech Stack
 
 - **Frontend:** React / Next.js / TypeScript  
 - **Backend:** Node.js / Express (or your chosen backend)  
 - **Database:** MongoDB / Firebase  
 - **Styling:** TailwindCSS / CSS Modules  
-- **Version Control:** Git & GitHub  
-
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/rahulcvwebsitehosting/StudySense.git
-cd StudySense
-
-
-
-# 📚 StudySense
-
-StudySense is a smart study companion that helps students track progress, practise quizzes, receive personalised recommendations, and improve learning efficiency.  
-Built for clarity, speed, and a smooth learning experience.
+- **Version Control:** Git & GitHub
 
 ---
 
-## 🚀 Getting Started
+## 📦 Installation
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/rahulcvwebsitehosting/StudySense.git
 cd StudySense
-```
+````
 
-### 2️⃣ Install Dependencies
+### 2️⃣ Install dependencies
+
 ```bash
 npm install
 ```
 
-### 3️⃣ Start the Development Server
+### 3️⃣ Start the development server
+
 ```bash
 npm run dev
 ```
 
-### 4️⃣ Build for Production
+### 4️⃣ Build for production
+
 ```bash
 npm run build
 ```
 
-### 5️⃣ Start Production Build
+### 5️⃣ Start production build
+
 ```bash
 npm start
 ```
@@ -93,17 +87,18 @@ StudySense/
 Contributions are always welcome!
 
 **Steps:**
-1. Fork this repo  
-2. Create a new branch  
-3. Commit your changes  
-4. Open a Pull Request  
+
+1. Fork this repo
+2. Create a new branch
+3. Commit your changes
+4. Open a Pull Request
 
 ---
 
 ## 🐛 Issues
 
-If you find bugs or want to request features, open an issue here:  
-👉 https://github.com/rahulcvwebsitehosting/StudySense/issues
+If you find bugs or want to request features, open an issue here:
+👉 [https://github.com/rahulcvwebsitehosting/StudySense/issues](https://github.com/rahulcvwebsitehosting/StudySense/issues)
 
 ---
 
@@ -115,14 +110,17 @@ This project is licensed under the **MIT License**.
 
 ## 🙋‍♂️ Author
 
-**Rahul S**  
+**Rahul S**
 Building tools that make learning smarter and easier.
 
 ---
 
+### Extras (optional)
+
 If you want, I can also add:
 
-✅ A project logo  
-✅ A preview GIF  
-✅ Badges (build, license, version)  
-✅ A detailed roadmap  
+* ✅ A project logo
+* ✅ A preview GIF
+* ✅ Badges (build, license, version)
+* ✅ A detailed roadmap
+
