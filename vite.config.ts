@@ -9,10 +9,10 @@ export default defineConfig(({ mode }) => {
   return {
     plugins: [react()],
     define: {
-      // Polyfill process.env.API_KEY for the Gemini client
+      // Safely replace process.env.API_KEY with the actual string value during build
       'process.env.API_KEY': JSON.stringify(env.API_KEY),
-      // Prevent "process is not defined" errors in the browser
-      'process.env': {},
+      // Polyfill the remaining process.env object to an empty object to prevent ReferenceError
+      'process.env': JSON.stringify({}),
     },
   };
 });
