@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { CameraOff, RefreshCw, AlertTriangle, User, CheckCircle2, Wifi, Video } from 'lucide-react';
+import { RefreshCw, AlertTriangle, User, CheckCircle2, Wifi, Video } from 'lucide-react';
 import { faceService } from '../services/faceService';
 import { FaceDetectionState, Mood } from '../types';
 

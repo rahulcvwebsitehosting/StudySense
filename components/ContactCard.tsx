@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Mail, Linkedin, Download, MapPin, ExternalLink } from 'lucide-react';
+import { Mail, Linkedin, Download, MapPin } from 'lucide-react';
 
 const ContactCard: React.FC = () => {
   const skills = [

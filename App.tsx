@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { HashRouter as Router, Routes, Route, useLocation, Link } from 'react-router-dom';
-import { LayoutDashboard, PlayCircle, BarChart2, BrainCircuit, Linkedin, User, Sun, Moon } from 'lucide-react';
+import { LayoutDashboard, BarChart2, BrainCircuit, Linkedin, User, Sun, Moon } from 'lucide-react';
 import Dashboard from './pages/Dashboard';
 import Session from './pages/Session';
 import Summary from './pages/Summary';

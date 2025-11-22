@@ -1,6 +1,5 @@
-
 import React, { useState, useEffect, useRef } from 'react';
-import { MessageCircle, X, Send, Bot, HelpCircle } from 'lucide-react';
+import { X, Send, Bot, HelpCircle } from 'lucide-react';
 import { askAppSupport } from '../services/aiService';
 
 interface Message {

@@ -32,7 +32,7 @@ export function mapExpressionsToMood(
   heuristics: MoodHeuristics
 ): Mood {
   const { happy, surprised, sad, angry, fearful, disgusted, neutral } = expressions;
-  const { blinkRate, mouthOpenness, smileCurvature, browLowering, gazeAwayCount, eyeOpenness } = heuristics;
+  const { blinkRate, smileCurvature, browLowering, gazeAwayCount, eyeOpenness } = heuristics;
 
   // 1. Happy (High Priority)
   // If expressions say happy, or if there is a decent smile curve with some happy probability

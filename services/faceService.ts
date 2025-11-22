@@ -1,4 +1,4 @@
-import { Mood, FaceDetectionState } from '../types';
+import { FaceDetectionState } from '../types';
 import { MODEL_URL } from '../constants';
 import { mapExpressionsToMood, MoodHeuristics } from '../lib/moodMap';
 
@@ -201,7 +201,6 @@ class FaceService {
       // Use top lip (point 3) or bottom lip (point 9) for reference?
       // Usually smile raises corners relative to center. 
       // Let's compare average corner Y to the upper lip center Y (point 14).
-      const upperLipCenter = mouth[14]; 
       
       // If corners are higher (smaller Y) than upper lip center, it's likely a smile
       // But neutral mouths often have corners lower than upper lip.
