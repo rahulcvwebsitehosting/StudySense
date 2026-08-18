@@ -1,0 +1,7 @@
+{
+  "name": "StudySense",
+  "description": "Privacy-first AI study companion that monitors mood, posture, and focus entirely in your browser.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
