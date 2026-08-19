@@ -1,5 +1,6 @@
 
 import { saveSession, getStoredSessions } from '../services/storage';
+import { jest } from '@jest/globals';
 
 // Mock LocalStorage
 const localStorageMock = (() => {
